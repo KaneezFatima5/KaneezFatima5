@@ -12,7 +12,7 @@ I am software engineer, currently doing Master’s in computer science at Univer
 
 - 🔭 I’m currently building an application for my University to list out daily events happening across campus 
 - 💬 Connect with me <a href="https://www.linkedin.com/in/kaneezfatima117">
-  <img height="50" alt="Linkedin" src="https://github.com/user-attachments/assets/2a4edcac-fe04-4ac0-bd08-dad7bc420cff" />
+  <img height="50" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 - ⚡ Fun fact: I enjoy challenges
 
