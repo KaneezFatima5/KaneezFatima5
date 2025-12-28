@@ -11,7 +11,7 @@
 I am software engineer, currently doing Master’s in computer science at University of New Mexico. I have strong ML foundation, backend API experience, and skills for applied modeling work. Experienced in building end-to-end ML pipelines, debugging production-level systems, and working with complex and large data.
 
 - 🔭 I’m currently building an application for my University to list out daily events happening across campus 
-- 💬 Connect with me <a href="https://www.linkedin.com/in/kaneezfatima117">
+<h2> 💬 Connect with me</h2> <a href="https://www.linkedin.com/in/kaneezfatima117">
   <img height="50" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 - ⚡ Fun fact: I enjoy challenges
