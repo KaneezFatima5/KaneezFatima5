@@ -18,7 +18,7 @@ I am software engineer, currently doing Master’s in computer science at Univer
 
 <h2> 🚀 &nbsp;Tools I Have WOrked on!</h2>
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-  <div>
+<div>
 <h5 align="left"> Programming Languages, FrameWorks And Libraries</h5>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="java" width="45" height="45"/>
@@ -28,8 +28,8 @@ I am software engineer, currently doing Master’s in computer science at Univer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React JS" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="Json" width="45" height="45" />
 </p>
-  </div>
-  <div>
+</div>
+<div>
 <h5 align="left"> Database and Cloud</h5>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
@@ -37,8 +37,8 @@ I am software engineer, currently doing Master’s in computer science at Univer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" alt="MS SQL" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
 </p>
-  </div>
-  <div>
+</div>
+<div>
 <h5 align="left" >Programming Tool and Softwares</h5>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original-wordmark.svg" alt="Postman" width="45" height="45"/>
@@ -48,7 +48,7 @@ I am software engineer, currently doing Master’s in computer science at Univer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg"  alt="Kaggle" width="45" height="45"/>
 </p>
 </div>
-  <div>
+<div>
 <h5 align="left" >AI/ML and Data Analysis Tools</h5>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45"/>
