@@ -18,7 +18,7 @@ I’m currently building an application for my University to list out daily even
 
 
 <h2> 🚀 &nbsp;Tools I Have WOrked on!</h2>
-<table border=NONE>
+<table border=NONE width="100%">
   <tr>
     <!-- Column 1 Content -->
     <td valign="top" width="50%">
