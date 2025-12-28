@@ -1,9 +1,9 @@
-## Hi there 👋
+## Hi I'm Fatima 👋
 
 <!--
 **KaneezFatima5/KaneezFatima5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+-->
+I am software engineer, currently doing Master’s in computer science at University of New Mexico. I have strong ML foundation, backend API experience, and skills for applied modeling work. Experienced in building end-to-end ML pipelines, debugging production-level systems, and working with complex and large data.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
 <h2> 🚀 &nbsp;Tools I Have WOrked on!</h2>
