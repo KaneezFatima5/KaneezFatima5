@@ -38,8 +38,6 @@ I am software engineer, currently doing Master’s in computer science at Univer
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original-wordmark.svg" alt="Kaggle" width="45" height="45"/>
         </p>
     </div>
-
-    <!-- Column 2 Content -->
     <div>
         <h5 align="left"> Database and Cloud</h5>
         <p>
