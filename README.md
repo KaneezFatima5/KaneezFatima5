@@ -1,4 +1,4 @@
-<h1 style="text-align: center;"> Hi 👋 I'm Fatima </h1>
+<h1 align="center">> Hi 👋 I'm Fatima </h1>
 
 <!--
 **KaneezFatima5/KaneezFatima5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ I’m currently building an application for my University to list out daily even
 
 
 <h2> 🚀 &nbsp;Tools I Have WOrked on!</h2>
-<table border="0">
+<table border=NONE>
   <tr>
     <!-- Column 1 Content -->
     <td valign="top" width="50%">
