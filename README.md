@@ -14,6 +14,7 @@ I’m currently building an application for my University to list out daily even
 <h2> 💬 Connect with me</h2> 
 <a href="https://www.linkedin.com/in/kaneezfatima117">
   <img height="50" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img height="50" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
 </a>
 
 
